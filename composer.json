@@ -1,0 +1,17 @@
+{
+    "name": "dreammaker008/two",
+    "description": "heh.",
+    "keywords": ["test", "test"],
+    "type": "project",
+    "license":"MIT",
+    "version":"1.0.0",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "authors": [
+        {
+            "name": "dreammaker008",
+            "email": "chxzh11420@163.com"
+        }
+    ]
+}
